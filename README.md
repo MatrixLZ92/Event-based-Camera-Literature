@@ -2,7 +2,7 @@
 Literature on event-based camera and the relevant technologies. 
 
 
-Application field [G. Gallego, etc. 2020(https://ieeexplore.ieee.org/document/9138762)]
+Application field [[G. Gallego, etc. 2020]](https://ieeexplore.ieee.org/document/9138762)
 ## Feature Detection and Tracking
 T. Delbruck and P. Lichtsteiner, "Fast sensory motor control based on event-based hybrid neuromorphic-procedural system", Proc. IEEE Int. Symp. Circuits Syst., pp. 845-848, 2007.\
 T. Delbruck and M. Lang, "Robotic goalie with 3ms reaction time at 4% CPU load using event-based dynamic vision sensor", Front. Neurosci., vol. 7, 2013.\
