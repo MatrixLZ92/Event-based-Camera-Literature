@@ -31,8 +31,6 @@ X. Clady, S.-H. Ieng and R. Benosman, "Asynchronous event-based corner detection
 Z. Ni, S.-H. Ieng, C. Posch, S. Régnier and R. Benosman, "Visual tracking using neuromorphic asynchronous event-based cameras", Neural Comput., vol. 27, no. 4, pp. 925-953, 2015.
 V. Vasco, A. Glover, E. Mueggler, D. Scaramuzza, L. Natale and C. Bartolozzi, "Independent motion detection with event-driven cameras", Proc. IEEE Int. Conf. Adv. Robot., pp. 530-536, 2017.
 Y. Hu, H. Liu, M. Pfeiffer and T. Delbruck, "DVS benchmark datasets for object tracking action recognition and object recognition", Front. Neurosci., vol. 10, 2016.
-![image](https://user-images.githubusercontent.com/84047492/186763230-9139fa2a-7952-47fb-bf26-0077ae6f8903.png)
-
 
 ## Optical Flow Estimation
 
